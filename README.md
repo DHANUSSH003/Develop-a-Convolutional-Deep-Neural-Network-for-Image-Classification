@@ -232,4 +232,4 @@ Include your sample input and output here
 <img width="389" height="432" alt="download" src="https://github.com/user-attachments/assets/358ebd40-c998-4a77-adb3-af096572c383" />
 
 ## RESULT
-Include your result here
+Thus , a convolutional deep neural network (CNN) for image classification and to verify the response for new images is successfully developed.
